@@ -1,5 +1,3 @@
-# Bike-Sales-Dashboard-Power-BI-
-
 # Problem Statement
 This is Sales Analysis for a hypothetical company with business operations in North America and Europe continent. The dataset was sourced from Kaggle and contained 6 years data. Basic EDA was performed with Jupyter notebook on the data to gain insight on pattern, trends, and correlations. 
 
